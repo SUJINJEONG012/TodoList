@@ -1,6 +1,6 @@
 'use strict';
 
-let todoArray = []; //할 일들을 배열로 선언
+const todoArray = []; //할 일들을 배열로 선언
 let todoList = document.getElementById('todo__list').value;
 
 let inputButton = document.querySelector('.input__button');
