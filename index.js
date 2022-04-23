@@ -35,10 +35,8 @@ function addTodo(){
    //할일 목록 추가 값
    document.getElementById("todo__list").appendChild(li).innerText = todo;
    
-
-
-     //삭제 하기 버튼
-     li.appendChild(deleteBtn);
+  //삭제 하기 버튼
+  li.appendChild(deleteBtn);
      deleteBtn.textContent='제거하기';
 
 
