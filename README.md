@@ -1,6 +1,6 @@
 # Todolist
 
-## `addEventListener` 함수를 이용해 `클릭이벤트`로 투두리스트 구현😀
+### `addEventListener` 함수를 이용해 `클릭이벤트`로 투두리스트 구현😀
 
 ```javascript
 inputButton.addEventListener('click', addTodo); //클릭이벤트 후
